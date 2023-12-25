@@ -1,0 +1,1 @@
+# Přehled admin příkazů
