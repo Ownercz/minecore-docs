@@ -4,6 +4,8 @@ site_name: Minecore.cz dokumentace
 # Navigation menu
 nav:
   - Home: index.md
+  - Hráčské příkazy: player.md
+  - Adminské příkazy: admin.md
 
 # Theme
 theme:
