@@ -65,7 +65,9 @@ Získal si kamarády, skvělá práce! Tak je pojďme pozvat do tvého pozemku.
 - Větší regiony nebo větší počet ti rádi udělají členové AT (ale musíš mít buď dobrý důvod - např. skvělý projekt nebo jsi už všechno zastavěl).
 - VIP mají vyšší počet regionů než 4.
 
-## Klíče a crafting
+## Klíče a jak je získat
+
+Základní klíč získáš pomocí hlasování na https://minecore.cz/hlasovani
 
 **Zlatý klíč**
 
@@ -95,6 +97,10 @@ Získal si kamarády, skvělá práce! Tak je pojďme pozvat do tvého pozemku.
 - 1x Netherite block
 
 ![](media/key-obsidian.png)
+
+## Chytání mobů do vajíček
+
+Potřebuješ magické vejce, které získáš takto:  
 
 **Magic Egg**
 
