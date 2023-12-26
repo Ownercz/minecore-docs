@@ -1,5 +1,10 @@
 # Přehled admin příkazů
 
+## Úkoly
+- https://git.lipovcan.cz/Minecore/Minecore/issues
+
+## Propagace
+- https://docs.google.com/spreadsheets/d/1zU3HHzKwKyZVj0tYu-XtcIsh4tco0phW9BD5QhpoVHY/edit?usp=sharing
 
 ### Klíče pro AT
 ```
