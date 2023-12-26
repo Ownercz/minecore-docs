@@ -1,19 +1,24 @@
 # Přehled hráčských příkazů
-## Survival economy server
+# Survival economy server
 
-### Stavba
+## Warpy
+Příkazem ```/warp``` zobrazíš všechny warpy na serveru.  
+Těžit a branch minovat bez omezení můžeš na ```/mine``` warpu. Stavět bez omezení můžeš na ```/priroda```.  
+Prosím o dodržování těchto pravidel, abychom měli stavební mapu stále krásnou a ne jak krtčí noru.  
+
+## Stavba
 Stavět můžeš kdekoliv na mapě, kde není již stávající region.  
 Region chápej jako pozemek, který už někdo vlastní.  
 Do mapy, kde je možné stavět, se dostaneš přes ```/priroda```.
 
-### Ochrana pozemku
+## Ochrana pozemku
 Začneme ochranou pozemku - na ```/warp priroda``` sis našel/a krásné místo.   
 Zda tam není jiný region, stačí napsat ```/rg info``` - to ti vždy vypíše informace o regionu a tak zjistíš, zda tam opravdu je či není.
 
 
 Fun fact: ```__global__``` region není region pro hráče, ale takový region, který je všude (ber to jako default, ty si děláš vlastní nad ním).
 
-### Pojďme si ochránit pozemek
+## Pojďme si ochránit pozemek
 Máš pozemek, nikdo tam na něm není? Super! Tak vytas označovátko příkazem ```//wand```.
 
 Nyní potřebuješ označit dva body. Ber, že máš pozemek 50x50, takže musíš začít máchnutím na první blok, který je v levém "spodním" rohu a druhý, úhlopříčný v pravém "horním" rohu.
@@ -35,7 +40,7 @@ Hráč může mít 4 regiony, které jsou 50x50 velké (a s ```//expand vert``` 
 
 **Máme označeno?** Skvělé! Tak pojďme vytvořit samotný region. Stačí ti příkaz  ```/rg claim NÁZEV_REGIONU```, tedy například  ```/rg claim ostrava```, pokud chceš, aby se tvůj region jmenoval Ostrava.
 
-### Máš kamarády a chceš s nimi stavět
+## Máš kamarády a chceš s nimi stavět
 Získal si kamarády, skvělá práce! Tak je pojďme pozvat do tvého pozemku.
 
 1. Zjisti si název pozemku (musíš v něm stát) ```/rg info```
@@ -50,9 +55,8 @@ Získal si kamarády, skvělá práce! Tak je pojďme pozvat do tvého pozemku.
 - VIP mají vyšší počet regionů než 4.
 
 
-
-## Vanilla server
-### Ochrana pozemku
+# Vanilla server
+## Ochrana pozemku
 
 Jako první musíš napsat `/t create název_pozemku` například `/t create ostrava`.  
 Nyní máš název pozemku a potřebuješ k němu nastavit samotnou oblast. 
