@@ -30,7 +30,7 @@ Zda tam není jiný region, stačí napsat ```/rg info``` - to ti vždy vypíše
 
 Fun fact: ```__global__``` region není region pro hráče, ale takový region, který je všude (ber to jako default, ty si děláš vlastní nad ním).
 
-## Pojďme si ochránit pozemek
+### Pojďme si ochránit pozemek
 Máš pozemek, nikdo tam na něm není? Super! Tak vytas označovátko příkazem ```//wand```.
 
 Nyní potřebuješ označit dva body. Ber, že máš pozemek 50x50, takže musíš začít máchnutím na první blok, který je v levém "spodním" rohu a druhý, úhlopříčný v pravém "horním" rohu.
@@ -52,7 +52,7 @@ Hráč může mít 4 regiony, které jsou 50x50 velké (a s ```//expand vert``` 
 
 **Máme označeno?** Skvělé! Tak pojďme vytvořit samotný region. Stačí ti příkaz  ```/rg claim NÁZEV_REGIONU```, tedy například  ```/rg claim ostrava```, pokud chceš, aby se tvůj region jmenoval Ostrava.
 
-## Máš kamarády a chceš s nimi stavět
+### Máš kamarády a chceš s nimi stavět
 Získal si kamarády, skvělá práce! Tak je pojďme pozvat do tvého pozemku.
 
 1. Zjisti si název pozemku (musíš v něm stát) ```/rg info```
