@@ -68,12 +68,14 @@ Získal si kamarády, skvělá práce! Tak je pojďme pozvat do tvého pozemku.
 ## Klíče a crafting
 
 **Zlatý klíč**
+
 - 4x Železný klíč
 - 1x Gold block
 
 ![](media/key-gold.png)
 
 **Smaragdový klíč**
+
 - 4x Zlatý klíč
 - 1x Emerald block
 
@@ -81,18 +83,21 @@ Získal si kamarády, skvělá práce! Tak je pojďme pozvat do tvého pozemku.
 
 
 **Diamantový klíč**
+
 - 4x Smaragdový klíč
 - 1x Diamond block
 
 ![](media/key-diamond.png)
 
 **Obsidiánový klíč**
+
 - 8x Diamantový klíč
 - 1x Netherite block
 
 ![](media/key-obsidian.png)
 
 **Magic Egg**
+
 - 1x  Egg
 - 1x Honey Bottle
 - 1x Fermented Spider Eye
