@@ -35,6 +35,16 @@ Hráč může mít 4 regiony, které jsou 50x50 velké (a s ```//expand vert``` 
 
 **Máme označeno?** Skvělé! Tak pojďme vytvořit samotný region. Stačí ti příkaz  ```/rg claim NÁZEV_REGIONU```, tedy například  ```/rg claim ostrava```, pokud chceš, aby se tvůj region jmenoval Ostrava.
 
+### Máš kamarády a chceš s nimi stavět
+Získal si kamarády, skvělá práce! Tak je pojďme pozvat do tvého pozemku.
+
+1. Zjisti si název pozemku (musíš v něm stát) ```/rg info```
+2. Region se jmenuje např. ostrava a hráč se jmenuje johndeer
+3. Hráče přidáš příkazem ```/rg addmember ostrava johndeer``` a odebereš příkazem ```/rg delmember ostrava johndeer```
+3. Pokud hráči hodně věříš (což nedoporučujeme), tak ho můžeš přidat i jako vlastníka tvého pozemku příkazem ```/rg addowner ostrava johndeer``` a odebereš příkazem ```/rg delowner ostrava johndeer```
+
+
+
 ## Vanilla server
 ### Ochrana pozemku
 
