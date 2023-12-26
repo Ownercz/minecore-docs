@@ -1,4 +1,19 @@
 # Přehled hráčských příkazů
+## Survival economy server
+
+### Stavba
+Stavět můžeš kdekoliv na mapě, kde není již stávající region.  
+Region chápej jako pozemek, který už někdo vlastní.  
+Do mapy, kde je možné stavět, se dostaneš přes ```/priroda```.
+
+#### Ochrana pozemku
+Začneme ochranou pozemku - na ```/warp priroda``` sis našel/a krásné místo.   
+Zda tam není jiný region, stačí napsat ```/rg info``` - to ti vždy vypíše informace o regionu a tak zjistíš, zda tam opravdu je či není.
+
+
+Fun fact: ```__global__``` region není region pro hráče, ale takový region, který je všude (ber to jako default, ty si děláš vlastní nad ním).
+
+
 ## Vanilla server
 ### Ochrana pozemku
 
