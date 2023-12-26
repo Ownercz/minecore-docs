@@ -6,13 +6,32 @@ Stavět můžeš kdekoliv na mapě, kde není již stávající region.
 Region chápej jako pozemek, který už někdo vlastní.  
 Do mapy, kde je možné stavět, se dostaneš přes ```/priroda```.
 
-#### Ochrana pozemku
+### Ochrana pozemku
 Začneme ochranou pozemku - na ```/warp priroda``` sis našel/a krásné místo.   
 Zda tam není jiný region, stačí napsat ```/rg info``` - to ti vždy vypíše informace o regionu a tak zjistíš, zda tam opravdu je či není.
 
 
 Fun fact: ```__global__``` region není region pro hráče, ale takový region, který je všude (ber to jako default, ty si děláš vlastní nad ním).
 
+### Pojďme si ochránit pozemek
+Máš pozemek, nikdo tam na něm není? Super! Tak vytas označovátko příkazem ```//wand```.
+
+Nyní potřebuješ označit dva body. Ber, že máš pozemek 50x50, takže musíš začít máchnutím na první blok, který je v levém "spodním" rohu a druhý, úhlopříčný v pravém "horním" rohu.
+
+Zde je v nákresu označen levý roh A a pravý jako B. 
+```
++------------------B
+|                  |
+|                  |
+|                  |
+|                  |
+|                  |
+A------------------+
+```
+
+Máš označeno? Skvělé. Nyní potřebuješ napsat ```//expand vert```, aby si měl ochranu pozemku 50x50 a hlavně od bedrocku až po nebe.
+
+Hráč může mít 4 regiony, které jsou 50x50 velké (a s ```//expand vert``` jsou chráněné na komplet výšku). Komplet výška je důležitá proto, aby se ti nikdo nemohl dostat nad pozemek a polít tě lávou.
 
 ## Vanilla server
 ### Ochrana pozemku
