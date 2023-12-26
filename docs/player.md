@@ -6,6 +6,10 @@ Příkazem ```/warp``` zobrazíš všechny warpy na serveru.
 Těžit a branch minovat bez omezení můžeš na ```/mine``` warpu. Stavět bez omezení můžeš na ```/priroda```.  
 Prosím o dodržování těchto pravidel, abychom měli stavební mapu stále krásnou a ne jak krtčí noru.  
 
+## Vydělávání peněz
+Peníze si můžeš vydělat pomocí Jobs. Stačí se podívat, která práce by tě bavíla příkazem ```/jobs browse```.
+A kde můžeš peníze utratit? Jdi na ```/warp trade```
+
 ## Stavba
 Stavět můžeš kdekoliv na mapě, kde není již stávající region.  
 Region chápej jako pozemek, který už někdo vlastní.  
@@ -53,6 +57,7 @@ Získal si kamarády, skvělá práce! Tak je pojďme pozvat do tvého pozemku.
 - Maximální počet regionů jsou 4.
 - Větší regiony nebo větší počet ti rádi udělají členové AT (ale musíš mít buď dobrý důvod - např. skvělý projekt nebo jsi už všechno zastavěl).
 - VIP mají vyšší počet regionů než 4.
+
 
 
 # Vanilla server
