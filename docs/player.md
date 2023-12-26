@@ -1,29 +1,29 @@
 # Přehled hráčských příkazů
-# Survival economy server
+## Survival economy server
 
-## Warpy
+### Warpy
 Příkazem ```/warp``` zobrazíš všechny warpy na serveru.  
 Těžit a branch minovat bez omezení můžeš na ```/mine``` warpu. Stavět bez omezení můžeš na ```/priroda```.  
 Prosím o dodržování těchto pravidel, abychom měli stavební mapu stále krásnou a ne jak krtčí noru.  
 
-## Vydělávání peněz
+### Vydělávání peněz
 Peníze si můžeš vydělat pomocí Jobs. Stačí se podívat, která práce by tě bavíla příkazem ```/jobs browse```.
 A kde můžeš peníze utratit? Jdi na ```/warp trade```
 
-## TOP
+### TOP
 - Peníze  ```/baltop```
 - McMMO  ```/mctop```
 
-## Arény a PVP
+### Arény a PVP
 Chceš si zahrát sám nebo s kamarády MobArénu? Zajdi na  ```/ma j```.
 Nebo si troufáš na PVP? Tak jdi na ```/xp```
 
-## Stavba
+### Stavba
 Stavět můžeš kdekoliv na mapě, kde není již stávající region.  
 Region chápej jako pozemek, který už někdo vlastní.  
 Do mapy, kde je možné stavět, se dostaneš přes ```/priroda```.
 
-## Ochrana pozemku
+### Ochrana pozemku
 Začneme ochranou pozemku - na ```/warp priroda``` sis našel/a krásné místo.   
 Zda tam není jiný region, stačí napsat ```/rg info``` - to ti vždy vypíše informace o regionu a tak zjistíš, zda tam opravdu je či není.
 
@@ -68,8 +68,8 @@ Získal si kamarády, skvělá práce! Tak je pojďme pozvat do tvého pozemku.
 
 
 
-# Vanilla server
-## Ochrana pozemku
+## Vanilla server
+### Ochrana pozemku
 
 Jako první musíš napsat `/t create název_pozemku` například `/t create ostrava`.  
 Nyní máš název pozemku a potřebuješ k němu nastavit samotnou oblast. 
@@ -80,17 +80,17 @@ Počet chunků, které můžeš mít u svého pozemku, je maximálně 16. Tedy m
 Odebrat kus pozemku můžeš pomocí `/t unclaim`.
 Odebrat kompletně pozemek můžeš pomocí `/t delete`.
 
-#### Přidání kamaráda
+### Přidání kamaráda
 Nejdřív jdi na svůj pozemek. Kamaráda přidáš příkazem `/t add NICK` , například `/t add Davo` přidá kamaráda s nickem Davo do tvého pozemku. 
 
 Kamarád pak přijme tvé pozvání `/accept`
 
 Odebrání můžeš udělat poté příkazem: `/t kick NICK`
 
-#### Přejmenování pozemku
+### Přejmenování pozemku
 Stůj ve svém pozemku, který chceš přejmenovat, následně napiš `/t set name Brno`. To nastaví jméno tvého pozemku na Brno.
 
-##### Kde všude mám pozemek?
+### Kde všude mám pozemek?
 Mapu pozemku si můžeš zobrazit pomocí příkazu `/towny map`.
 Můžeš si taky zapnout/vypnout zobrazení okrajů chunku, díky kterým uvidíš, kde přesně ti končí pozemek příkazem `/res toggle constantplotborder`.
 
@@ -98,9 +98,9 @@ Neustálé vypisování mapy do chatu můžeš zapnout/vypnout `/res toggle map`
 
 Zelené = tvůj pozemek, šedé = ničí pozemek, červené = cizí/pvp.
 
-#### Seznam pozemků
+### Seznam pozemků
 /t list - klikneš a můžeš se portnout
 
-#### uvítací zpráva
+### uvítací zpráva
 /t set board
 /t set board none - smazat
