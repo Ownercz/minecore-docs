@@ -1,5 +1,4 @@
-# Přehled hráčských příkazů
-## Survival economy server
+# Survival economy server
 
 ### Warpy
 Příkazem ```/warp``` zobrazíš všechny warpy na serveru.  
