@@ -33,6 +33,8 @@ Máš označeno? Skvělé. Nyní potřebuješ napsat ```//expand vert```, aby si
 
 Hráč může mít 4 regiony, které jsou 50x50 velké (a s ```//expand vert``` jsou chráněné na komplet výšku). Komplet výška je důležitá proto, aby se ti nikdo nemohl dostat nad pozemek a polít tě lávou.
 
+**Máme označeno?** Skvělé! Tak pojďme vytvořit samotný region. Stačí ti příkaz  ```/rg claim NÁZEV_REGIONU```, tedy například  ```/rg claim ostrava```, pokud chceš, aby se tvůj region jmenoval Ostrava.
+
 ## Vanilla server
 ### Ochrana pozemku
 
