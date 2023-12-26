@@ -10,6 +10,9 @@ Prosím o dodržování těchto pravidel, abychom měli stavební mapu stále kr
 Peníze si můžeš vydělat pomocí Jobs. Stačí se podívat, která práce by tě bavíla příkazem ```/jobs browse```.
 A kde můžeš peníze utratit? Jdi na ```/warp trade```
 
+## TOP
+- Peníze  ```/baltop```
+- McMMO  ```/mctop```
 
 ## Arény a PVP
 Chceš si zahrát sám nebo s kamarády MobArénu? Zajdi na  ```/ma j```.
