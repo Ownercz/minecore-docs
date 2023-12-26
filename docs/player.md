@@ -43,6 +43,12 @@ Získal si kamarády, skvělá práce! Tak je pojďme pozvat do tvého pozemku.
 3. Hráče přidáš příkazem ```/rg addmember ostrava johndeer``` a odebereš příkazem ```/rg delmember ostrava johndeer```
 3. Pokud hráči hodně věříš (což nedoporučujeme), tak ho můžeš přidat i jako vlastníka tvého pozemku příkazem ```/rg addowner ostrava johndeer``` a odebereš příkazem ```/rg delowner ostrava johndeer```
 
+### Počet regionů a rozměry
+- Maximální rozměr jednoho regionu je 50x50 bloků.
+- Maximální počet regionů jsou 4.
+- Větší regiony nebo větší počet ti rádi udělají členové AT (ale musíš mít buď dobrý důvod - např. skvělý projekt nebo jsi už všechno zastavěl).
+- VIP mají vyšší počet regionů než 4.
+
 
 
 ## Vanilla server
