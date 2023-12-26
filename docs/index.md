@@ -1,8 +1,10 @@
 # Minecore.cz dokumentace
 
 
-### Hráčské příkazy
-[zde](/player)
+### Survival economy příkazy
+[zde](/survival)
+### Vanilla příkazy
+[zde](/vanilla)
 
 ### Admin příkazy
 [zde](/admin)
