@@ -64,3 +64,41 @@ Získal si kamarády, skvělá práce! Tak je pojďme pozvat do tvého pozemku.
 - Maximální počet regionů jsou 4.
 - Větší regiony nebo větší počet ti rádi udělají členové AT (ale musíš mít buď dobrý důvod - např. skvělý projekt nebo jsi už všechno zastavěl).
 - VIP mají vyšší počet regionů než 4.
+
+## Klíče a crafting
+
+**Zlatý klíč**
+- 4x Železný klíč
+- 1x Gold block
+
+![](media/key-gold.png)
+
+**Smaragdový klíč**
+- 4x Zlatý klíč
+- 1x Emerald block
+
+![](media/key-smaragd.png)
+
+
+**Diamantový klíč**
+- 4x Smaragdový klíč
+- 1x Diamond block
+
+![](media/key-diamond.png)
+
+**Obsidiánový klíč**
+- 8x Diamantový klíč
+- 1x Netherite block
+
+![](media/key-obsidian.png)
+
+**Magic Egg**
+- 1x  Egg
+- 1x Honey Bottle
+- 1x Fermented Spider Eye
+- 1x Glow Berries
+- 1x Torchflower Seeds
+- 1x Pitcher Pod
+- 1x Chorus Fruit
+
+![](media/egg-magic.png)
