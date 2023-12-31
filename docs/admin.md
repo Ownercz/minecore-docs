@@ -13,6 +13,10 @@
 /cratereloaded:cr give to Ownercz DiamondCrate
 /cratereloaded:cr give to Ownercz ObsidianCrate
 ```
+### VIP
+```
+/newkey VIP-Emerald 30 1
+```
 
 ## Vanilla server
 ### Admin cmds
