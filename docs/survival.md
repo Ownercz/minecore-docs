@@ -16,6 +16,11 @@
 - Peníze  ```/baltop```
 - McMMO  ```/mctop```
 
+### Aukce a prodej itemů přes /ah
+- Můžeš mít 3 itemy na prodej a 3 v aukci
+- Otevření aukcí **/ah**
+- Prodej **/ah sell [cena]** (item musíš držet v ruce)
+
 ### Arény a PVP
 - Chceš si zahrát sám nebo s kamarády MobArénu? Zajdi na  ```/ma j```.
 - Nebo si troufáš na PVP? Tak jdi na ```/xp```
