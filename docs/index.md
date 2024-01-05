@@ -17,7 +17,6 @@ Pod značkou Minecore funguje server již od roku 2011.
 - **play.minecore.cz**
 
 ## Důležité odkazy
-⠀
 - Webová stránka: [minecore.cz](https://minecore.cz)
 - Status serverů: [status page](status.lipovcan.cz/status/minecorecz)
 - Mapy serverů: [map.minecore.cz](https://map.minecore.cz)
@@ -28,7 +27,6 @@ Pod značkou Minecore funguje server již od roku 2011.
 - Mapa PVP: [pvp.minecore.cz](https://pvp.minecore.cz)
 
 ## Sociální sítě
-⠀
 - Facebook: [@Minecore.cz](https://www.facebook.com/Minecore.cz)
 - Instagram: [@minecore_cz](https://www.instagram.com/minecore_cz)
 - Tiktok: [@minecore_cz](https://www.tiktok.com/@minecore_cz)
