@@ -252,4 +252,29 @@ Curse of Fragility | Prevents item from being grindstoned or anviled. | All Item
 | Coffee       | Lots of Cocoa Beans<br>2 Milk Buckets | Short | No | No                     |      | ++ |
 | Eggnog      | 5 Eggs<br>A little sugar<br>1 Milk Bucket | Short | No | Short<br>Any          | I'   |    |
 
+### Pojďme si uvařit nápoj!
+
+#### Fermentace
+
+Nejdříve potřebuješ všechny skvělé a čerstvé ingredience
+
+1. Dej Cauldron nad oheň
+2. Naplň ho vodou
+3. Přidej ingredience
+4. Počkej určitý čas dle návodu
+5. Naplň lahvičky s tímto úžasným lektvarem
+
+
+protip: použij hodiny, aby si viděl, jak dlouho se to vaří
+
+### Destilace
+Je vhodná pouze pro určité druhy receptů.
+1. Vlož lahvičku do brewing standu
+2. Dej glowstone jako filtr nahoru (můžeš ho použít opakovaně).
+
+
+### Zrání
+
+Pro zrání potřebuješ barel. Ulož do barelu svůj produkt a nech zrát dle instrukcí.
+
 
